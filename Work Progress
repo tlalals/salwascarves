@@ -1,8 +1,32 @@
 # Mobile App Prototype Progress
 1. Complete Intro Page (16/9/2024)
-   - Add logo, product image and get started button
+   - logo
+   - product image 
+   - get started button
 2. Complete Sign Up & Login Page (16/9/2024)
-   - Add email, username, password, confirm password, remember me, forgot password
+   - email
+   - username
+   - password 
+   - confirm password
+   - remember me
+   - forgot password
+3. Complete Home Page (17/9/2024)
+   - profile
+   - navigation buttons (home, shop, cart, favourite)
+   - search bar
+   - shortcut
+   - promotion banner
+   - flash sale
+4. Complete Product Listings (17/9/2024)
+   - navigation buttons (home, shop, cart, favourite)
+   - back button
+   - product images, names and prices
+5. Complete Product Details (17/9/2024)
+   - back button
+   - product image, name and price
+   - number of sold
+   - product description
+   - add to chart button
 
 # Mobile App Manual Progress
 
