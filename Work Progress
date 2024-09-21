@@ -24,16 +24,50 @@
    - product images, names and prices
 5. Complete Product Details (17/9/2024)
    - back button
-   - product image, name and price
+   - product image, name, and price
    - number of sold
    - product description
    - add to chart button
-
+6. Favourite Screen (17/9/2024)
+   - back button 
+   - navigation buttons (home, shop, cart, favourite)
+   - product images, names and prices
+7. Complete Cart Screen (17/9/2024)
+   - back button
+   - delete button 
+   - product image, name, and price
+   - add promotion code button
+   - check out button
+8. Check Out Screen (17/9/2024)
+   - back button
+   - subtotal, shipping cost, tax, and total cost
+   - shipping address button
+   - method button button
+   - place order button
+9. Order Placed Screen (17/9/2024)
+   - check your order here button 
+10. Delivery Page (17/9/2024)
+   - back button 
+   - track button 
+   - estimated delivery date
+   - current update of the order
+11. Profile Screen (17/9/2024)
+   - back button
+   - user's account information 
+   - payment method button 
+   - user's orders button 
+   - cancellation button 
+   - location button
+   - shipping address button 
+   - help center button
+   - chat with Salwa Scarves button
+   - share feedback button 
 
 # Mobile App Manual Progress
 
 16.9.2024 = create the base of user manual (design, templates, colours, theme)
 19.9.2024 = added details and photos of the app
+
 
 
 # Semi-functional Website Progress
